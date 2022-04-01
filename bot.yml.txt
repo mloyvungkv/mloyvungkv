@@ -1,0 +1,5 @@
+{
+    "ip":"Omegavn1.aternos.me"
+    "port":"39917"
+    "name":"afk"
+}
